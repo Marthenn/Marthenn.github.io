@@ -11,7 +11,7 @@ author_profile: true
 ## About
 Hi! I’m **Marthen**, a research-track **master’s student in Computer Science** at the **Bandung Institute of Technology (ITB), Indonesia**. I work on problems in **distributed systems** and **machine learning**, especially where the two meet — **systems for ML**, **ML for systems**, **operating systems**, **cloud computing**, and **storage systems**.
 
-I’m currently doing my **master’s thesis** with **Achmad Imam Kistijantoro**, focusing on **Kubernetes cold-start optimization**. I’m also collaborating with **Asst. Prof. Juncheng Yang (Harvard University)** on research in **large-scale distributed systems**, particularly **caching algorithms** and **cloud computing**.
+I’m currently collaborating with **Asst. Prof. Juncheng Yang (Harvard University)** on research in **distributed systems**, particularly **caching algorithms** and **cloud computing**. At the same time, I’m working on my **master’s thesis** with **Achmad Imam Kistijantoro**, focusing on **Kubernetes cold-start optimization**.
 
 I’m broadly interested in building smarter and more efficient infrastructure for **data-intensive** and **machine learning workloads**.
 
