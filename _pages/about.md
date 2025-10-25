@@ -27,5 +27,5 @@ I’m broadly interested in building smarter and more efficient infrastructure f
 ---
 
 ## Publications {#publications}
-There are works in progress. Please check back later!
+There are works in progress. Please check back later!<br>
 If you'd like to learn more about my current works, please contact me at marthen.bintangdwi@gmail.com
