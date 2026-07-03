@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PFP.jpg"
+  avatar           : "profile.jpg"
   name             : "Bintang Dwi Marthen"
   pronouns         : # example: "she/her"  
-  bio              : "MS student in Computer Science at Bandung Institute of Technology (ITB), Indonesia"
-  location         : "Bandung, Indonesia"
-  employer         : "Bandung Institute of Technology"
+#  bio              : "MS student in Computer Science at Bandung Institute of Technology (ITB), Indonesia"
+#  location         : "Bandung, Indonesia"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "marthen.bintangdwi@gmail.com" 
+  email            : "mmarthen@g.harvard.edu"
 
   # Academic websites
   academia         : # URL
