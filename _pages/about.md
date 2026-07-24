@@ -19,7 +19,7 @@ I'm broadly interested in building smarter and more efficient infrastructure for
 
 ## News {#news}
 - **Jul 2026** — Two papers accepted: one to **OSDI 2026** on learning-augmented cache eviction, and one to **VLDB 2026** on metadata cache replacement in VMware vSAN.
-- **Sep 2026** — Will start my PhD in Computer Science at Harvard SEAS, advised by Prof. Juncheng Yang.
+- **Feb 2026** — Accepted to Harvard SEAS for PhD in Computer Science, advised by Prof. Juncheng Yang.
 - **Aug 2025** — Graduated summa cum laude with a B.Sc. in Computer Science from Bandung Institute of Technology.
 - **Jul 2025** — Completed the System and AI Research (SYAIR) Training Program, instructed by Prof. Haryadi Gunawi (University of Chicago).
 - **Mar 2025** — Started collaboration with Asst. Prof. Juncheng Yang (Harvard University).
