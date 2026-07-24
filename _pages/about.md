@@ -29,7 +29,7 @@ I'm broadly interested in building smarter and more efficient infrastructure for
 ---
 
 ## Publications {#publications}
-- **Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable Cache Eviction**<br>
+- [**Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable Cache Eviction**](https://www.usenix.org/conference/osdi26/presentation/xia)<br>
   Haocheng Xia, William Nixon, **Bintang Dwi Marthen**, Pranav Bhandari, Juncheng Yang — *OSDI 2026*
 - **Clock2Q+: A Simple and Efficient Replacement Algorithm for Metadata Cache in VMware vSAN**<br>
   Yiyan Zhai, **Bintang Dwi Marthen**, Sarath Balivada, Vamsi Sudhakar Bojji, Eric Knauft, Jitender Rohilla, Jiaqi Zuo, Quanxing Liu, Maxime Austruy, Wenguang Wang, Juncheng Yang — *VLDB 2026*
