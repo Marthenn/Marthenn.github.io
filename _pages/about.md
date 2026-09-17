@@ -33,7 +33,7 @@ Before Harvard, I completed fast-track bachelor's and master's degrees in Comput
 ## Publications {#publications}
 - [**Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable Cache Eviction**](https://www.usenix.org/conference/osdi26/presentation/xia)<br>
   Haocheng Xia, William Nixon, **Bintang Dwi Marthen**, Pranav Bhandari, Juncheng Yang — *OSDI 2026*
-- [**Clock2Q+: A Simple and Efficient Replacement Algorithm for Metadata Cache in VMware vSAN**](https://doi.org/10.14778/3827998.3828002)<br>
+- [**Clock2Q+: A Simple and Efficient Replacement Algorithm for Metadata Cache in VMware vSAN**](https://www.vldb.org/pvldb/vol19/p3874-yang.pdf)<br>
   Yiyan Zhai, **Bintang Dwi Marthen**, Sarath Balivada, Vamsi Sudhakar Bojji, Eric Knauft, Jitender Rohilla, Jiaqi Zuo, Quanxing Liu, Maxime Austruy, Junlong Gao, Wenguang Wang, Juncheng Yang — *VLDB 2026*
 
 If you'd like to learn more about my work, please contact me at mmarthen@g.harvard.edu.
