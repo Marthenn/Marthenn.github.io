@@ -189,6 +189,40 @@ exclude:
   - README
   - tmp
   - vendor
+  # Template sample content that is not part of this site. Excluded so that
+  # search engines do not index placeholder pages under my name.
+  - _posts
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/sitemap.md
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - files/bibtex1.bib
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
+  - markdown_generator
+  - scripts
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
+  - cv-overleaf
 keep_files:
   - .git
   - .svn
@@ -219,21 +253,26 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false # template samples only
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false # template samples only
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false # template samples only
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false # template samples only
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # Google Search Console verification file: keep it out of the sitemap
+  - scope:
+      path: "googlea0640707cc2d70d1.html"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""
