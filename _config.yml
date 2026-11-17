@@ -270,7 +270,7 @@ collections:
 defaults:
   # Google Search Console verification file: keep it out of the sitemap
   - scope:
-      path: "googlea0640707cc2d70d1.html"
+      path: "google6bdc5b916ca9c997.html"
     values:
       sitemap: false
   # _posts
